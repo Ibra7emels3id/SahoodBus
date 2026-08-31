@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1787567866891,
+      "tag": "0000_gigantic_mad_thinker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1787568287384,
+      "tag": "0001_burly_chameleon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1787571493798,
+      "tag": "0002_panoramic_senator_kelly",
+      "breakpoints": true
+    }
+  ]
+}
